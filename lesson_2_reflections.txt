@@ -1,2 +1,4 @@
 What happens when you initialize a repository? Why do you need to do it?
 	Git create a directory and I have to inizialize to let git know that it is a reository.
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	It only keep track of what happens an doesn't change any file. I can choose which files to add, maybe I don't want all files to be added.
